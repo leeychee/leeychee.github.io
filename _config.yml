@@ -1,0 +1,11 @@
+# Site settings
+title: Chunhui Liu's GitHub Blog
+email: leeychee@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    知易行难，做个好的码农也不容易:-)    
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://leeychee.github.io" # the base hostname & protocol for your site
+github_username:  leeychee
+
+# Build settings
+markdown: kramdown
